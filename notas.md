@@ -10,3 +10,4 @@ Para ver el estado de la rama de trabajo: `git status`
 Para escribir una historia con lo que hay en la rama de trabajo: `git commit -m "Mi mensaje aqui"`
 Para enviar mis historias(commits) a otro repositorio: `git push origin main`
 
+git remote rename origin upstream
