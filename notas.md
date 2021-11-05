@@ -29,5 +29,5 @@
 Se puede *crear* e ir a la nueva rama creada usando un solo comando: `git checkout -b nombre` donde *nombre* es el nombre de la nueva rama que se creará.
 
 ## Para hacer cambios en una rama y borrar.
-git checkout -b arreglos
-git branch -D nombre 
+- git checkout -b arreglos
+- git branch -D nombre 
